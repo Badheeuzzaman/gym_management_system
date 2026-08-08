@@ -1,5 +1,3 @@
-# gym_management_system
-
 # FlexFit Gym Management System - PHP + MySQL
 
 Complete Gym Management System with 40+ modules 
